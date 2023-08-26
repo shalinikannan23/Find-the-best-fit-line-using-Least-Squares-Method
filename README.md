@@ -36,7 +36,6 @@ plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show()
 y_mean=m*3+b
-*/
 ```
 ## Output:
 ![image](https://github.com/shalinikannan23/Find-the-best-fit-line-using-Least-Squares-Method/assets/118656529/e26deab9-d23c-4484-b4bf-9d831e8fa65f)
